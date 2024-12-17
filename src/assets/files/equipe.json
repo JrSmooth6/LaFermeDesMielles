@@ -1,0 +1,18 @@
+[
+    {
+        "text": "Sarah, Cassandra, Stéphane et moi-même formons une équipe conviviale de passionnés de la restauration depuis quelques années, unie par l’envie de partager notre amour pour la cuisine.",
+        "img": "assets/equipe/equipe.jpg"
+    },
+    {
+        "text": "Cassandra et Sarah vous accueillerons avec le sourire et leur sérieux sans trop s’y prendre. ",
+        "img": "assets/equipe/cassSarah.png"
+    },
+    {
+        "text": "Stéphane alias Tonton, pilier de la cuisine, amoureux des bons produits et de la vie. Il saura vous égayer votre repas au travers de sa cuisine gourmande.",
+        "img": "assets/equipe/stephane.jpg"
+    },
+    {
+        "text": "Les coquilles saint Jacques nous envoyaient déjà en Normandie, nous sommes heureux que cela se soit réalisé. Bienvenue à La Ferme des Mielles, ce lieu qui se veux simple et chalereux. Paul, Rémi et son équipe seront ravis de vous acceuillir autour d’une table.",
+        "img": "assets/equipe/paulRemi.jpg"
+    }
+]

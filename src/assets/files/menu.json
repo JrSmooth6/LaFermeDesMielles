@@ -1,0 +1,84 @@
+[
+    {
+        "jour" : "Lundi",
+        "entrees" : 
+        [
+            "Salade de choux",
+            "Salade de poivron",
+            "Salade de prout"
+        ],
+        "plats" : 
+        [
+            "Poulet rôti",
+            "Poisson du jour",
+            "Steak haché"
+        ],
+        "desserts" : 
+        [
+            "Tarte aux pommes",
+            "Crème caramel",
+            "Salade de fruits"
+        ]
+    },
+    {
+        "jour" : "Mardi",
+        "entrees" : 
+        [
+            "Salade de tomates",
+            "Salade de carottes",
+            "Salade de concombres"
+        ],
+        "plats" : 
+        [
+            "Poulet rôti",
+            "Poisson du jour",
+            "Steak haché"
+        ],
+        "desserts" : 
+        [
+            "Tarte aux pommes",
+            "Crème caramel",
+            "Salade de fruits"
+        ]
+    },    {
+        "jour" : "Jeudi",
+        "entrees" : 
+        [
+            "Salade de tomates",
+            "Salade de carottes",
+            "Salade de concombres"
+        ],
+        "plats" : 
+        [
+            "Poulet rôti",
+            "Poisson du jour",
+            "Steak haché"
+        ],
+        "desserts" : 
+        [
+            "Tarte aux pommes",
+            "Crème caramel",
+            "Salade de fruits"
+        ]
+    },    {
+        "jour" : "Vendredi",
+        "entrees" : 
+        [
+            "Salade de tomates",
+            "Salade de carottes",
+            "Salade de concombres"
+        ],
+        "plats" : 
+        [
+            "Poulet rôti",
+            "Poisson du jour",
+            "Steak haché"
+        ],
+        "desserts" : 
+        [
+            "Tarte aux pommes",
+            "Crème caramel",
+            "Salade de fruits"
+        ]
+    }
+]
